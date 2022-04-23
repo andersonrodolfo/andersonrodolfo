@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Anderson and welcome to my github</h2>
+<h2>👋 Hi, I'm Anderson. Welcome to my github</h2>
 
 <!-- Stats -->
 <div>
